@@ -1,2 +1,1 @@
 - [Modrinth](https://modrinth.com/) 我的世界开源模组发布 #minecraft#open-source
-- [Modrinth](https://modrinth.com/) 我的世界开源模组发布 #minecraft#open-source
